@@ -8,7 +8,7 @@ Physics Ph.D. Candidate at **The Ohio State University** specializing in ultrafa
 - **SpotGauge:** An open-source tool for algorithmic analysis of laser beam profiles.
 
 ### 🛠 Technical Toolkit
-- **Languages:** Python (NumPy, SciPy, Pandas), MATLAB, R, C, Bash.
+- **Languages:** Python (NumPy, SciPy, Pandas), MATLAB, R, C, Mathematica.
 - **Data & ML:** Bayesian Optimization, Predictive Modeling, Machine Vision, High-Dimensional Data Analysis.
 - **Engineering:** Hardware automation (Serial/USB), Lab instrumentation interfacing, 3D printing/CAD.
 
