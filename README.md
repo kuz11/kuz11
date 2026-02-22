@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Conrad 👋
 
-<!--
-**kuz11/kuz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics Ph.D. Candidate at **The Ohio State University** specializing in ultrafast lasers, nonlinear photonics, laser material processing, and computational modeling. I bridge the gap between complex physical systems and data-driven insights.
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+- **Machine Learning for Micromachining:** Utilizing Bayesian optimization to automate and optimize high-aspect-ratio glass processing.
+- **Computational Physics:** Developing a 3D n-Two-Temperature Model (nTTM) in Python to numerically simulate extreme laser-matter interactions.
+- **SpotGauge:** An open-source tool for algorithmic analysis of laser beam profiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Toolkit
+- **Languages:** Python (NumPy, SciPy, Pandas), MATLAB, R, C, Bash.
+- **Data & ML:** Bayesian Optimization, Predictive Modeling, Machine Vision, High-Dimensional Data Analysis.
+- **Engineering:** Hardware automation (Serial/USB), Lab instrumentation interfacing, 3D printing/CAD.
+
+### 🏛 Leadership
+- **President**, OSU SPIE Student Chapter: Building a community for photonics and optics researchers.
+
+### 📫 Reach Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/conrad-kuz-788b89140)
+
+---
+*"Things are only impossible until they are not."* — Captain Jean-Luc Picard
