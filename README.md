@@ -5,7 +5,9 @@ Physics Ph.D. Candidate at **The Ohio State University** specializing in ultrafa
 ### 🔭 Currently Working On
 - **Machine Learning for Micromachining:** Utilizing Bayesian optimization to automate and optimize high-aspect-ratio glass processing.
 - **Computational Physics:** Developing a 3D n-Two-Temperature Model (nTTM) in Python to numerically simulate extreme laser-matter interactions.
+- **Laser-Material Interaction Analysis:** Performing and evaluating laser-induced damage from UV to Mid-IR on wide range of materials. Developed statistical workflows to integrate AFM, SEM, and Raman datasets, quantifying structural degradation and material phase stability.
 - **SpotGauge:** An open-source tool for algorithmic analysis of laser beam profiles.
+
 
 ### 🛠 Technical Toolkit
 - **Languages:** Python (NumPy, SciPy, Pandas), MATLAB, R, C, Mathematica.
