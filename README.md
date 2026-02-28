@@ -21,4 +21,4 @@ Physics Ph.D. Candidate at **The Ohio State University** specializing in ultrafa
 - 🔗 [LinkedIn](https://www.linkedin.com/in/conrad-kuz-788b89140)
 
 ---
-*"Things are only impossible until they are not."* — Captain Jean-Luc Picard
+*"The past is written, but the future is left for us to write." - Picard 🛰️
