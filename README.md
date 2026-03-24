@@ -20,7 +20,7 @@ Physics Ph.D. Candidate at **The Ohio State University** specializing in ultrafa
 ### 📫 Reach Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/conrad-kuz-788b89140)
 
-### 🛠️ Algorithm Practice: [LeetCode](https://leetcode.com/u/codek11/)
+### 🛠️ Algorithm Practice: [<ins>LeetCode</ins>](https://leetcode.com/u/codek11/)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/CodeK11)
 
 ---
